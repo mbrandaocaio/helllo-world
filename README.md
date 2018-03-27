@@ -1,3 +1,3 @@
 # helllo-world
 
-Testando primeiro troço a ser incluido no github
+Testando primeiro item a ser incluido no github
